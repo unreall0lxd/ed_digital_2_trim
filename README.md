@@ -1,2 +1,2 @@
 # ed_digital_2_trim
-Zulin
+Luis Miguel Oliveira de Almeida N24
